@@ -12,7 +12,7 @@ Files Description:
 
 * File named Amazon_Web_Scraping_Project: It is a IPYNB file which conatins the python code for scraping laptop data from amazon and data analysis using pandas.
 
-* File named amazon_data: It is a csv file which contains the scraped data.
+* File named amazon_data: It is a csv file which contains the scraped data after Data Cleaning.
 
 * File named Amazon Data Visualization: It is a pbix file which contains the visualization reports of scraped data.
                                         In this file , The first tab will show the Average of rating title wise using Stacked column chart.
